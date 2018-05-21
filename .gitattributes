@@ -1,0 +1,31 @@
+# Code types
+*.cs diff=csharp text
+*.java diff=java text
+*.js text
+*.json text
+*.xml text
+*.cginc text
+*.shader text
+
+# Art types
+*.fbx binary
+*.obj binary
+
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.tga binary
+
+# Code artifacts
+*.dll binary
+
+# Unity types
+*.mat merge=unityyamlmerge eol=lf
+*.anim merge=unityyamlmerge eol=lf
+*.unity merge=unityyamlmerge eol=lf
+*.prefab merge=unityyamlmerge eol=lf
+*.physicsMaterial2D merge=unityyamlmerge eol=lf
+*.physicsMaterial merge=unityyamlmerge eol=lf
+*.asset merge=unityyamlmerge eol=lf
+*.meta merge=unityyamlmerge eol=lf
+*.controller merge=unityyamlmerge eol=lf

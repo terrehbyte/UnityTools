@@ -1,0 +1,24 @@
+# Unity junk
+/Library/
+/Temp/
+/Builds/
+
+# Code junk
+*.sln
+*.csproj
+
+*.pdb
+
+# VS junk
+/.vs/
+/.vscode/
+
+/obj/
+
+*.suo
+*.user
+*.userprefs
+*.opendb
+
+# Build junk
+*.apk
