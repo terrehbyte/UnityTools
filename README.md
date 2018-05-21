@@ -17,6 +17,6 @@ Packages/                   Tracks packages from the Unity Package manager.
 
 This project is licensed under the Apache Project 2.0 license.
 
-See the [LICENSE.md](LICENSE.md) file for details.
+See the [LICENSE.txt](LICENSE.txt) file for details.
 
 Copyright (c) 2018 Terry Nguyen
